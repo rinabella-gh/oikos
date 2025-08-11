@@ -3,6 +3,6 @@ conceptual project for providing a secure digital marketplace for harm reduction
 
 LICENSE:
 
-CODE: SEE LICENSE.md
+CODE: SEE LICENSE
 
 DOCUMENTATION: CC-BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0/ 
